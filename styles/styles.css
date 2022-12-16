@@ -56,6 +56,8 @@ h2 {
 main {
     max-width: 1000px;
     margin: auto;
+    padding:100px;
+
 }
 
 
@@ -108,6 +110,7 @@ form button {
 .clientOpinions,.helpDesk, .faqs {
     margin-bottom:50px;
 }
+
 div img {
     vertical-align: text-top;
     width:44px;
@@ -176,11 +179,12 @@ details:hover {
 }
 
 
-/*///////////// 3.5 Footer /////////////*/
+/*///////////// 3.5 Footer /////////////Footer*/
 footer {
     text-align: center;
     background-color: #1C2B32;
     color: #ffffff;
+
 
 }
 
@@ -188,4 +192,5 @@ footer p {
     font-size: smaller;
     color: #ffffff;
     padding: 20px;
+
 }
