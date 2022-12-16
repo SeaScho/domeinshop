@@ -1,4 +1,4 @@
-#test
+#testing
 # Opdrachtomschrijving
 Via via krijg je een klus aangeboden om de website voor een hosting provider te bouwen. Gelukkig heb je inmiddels voldoende geleerd om een simpele layout te maken. Je hoeft je nog niet druk te maken over optimalisatie voor mobiele devices. Dat mag van de opdrachtgever in een later stadium gedaan worden.
 
